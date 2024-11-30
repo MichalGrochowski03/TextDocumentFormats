@@ -1,0 +1,16 @@
+[
+	{
+		"TicketID": "T4 04592963153",
+		"Name Of Passenger": "Joe Brown",
+		"From": "Paris",
+		"To": "Lonodn",
+		"Date": "12 may",
+		"Departure": "14:30",
+		"Arrive": "16:50",
+		"Seat": "A18",
+		"Train": 3924,
+		"Platform": 3,
+		"Carriage": 4,
+		"Class": "Economy Class"
+	}
+]
