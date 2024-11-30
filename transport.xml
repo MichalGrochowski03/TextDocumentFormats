@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+
+<cars>
+<car brand="Audi" releasedate="2010">
+<specs>
+	<enginecapacity>1968cm^3</enginecapacity>
+	<power>143HP</power>
+	<color>Black</color>
+	<gearbox>Manual</gearbox>
+</specs>
+</car>
+</cars>
+
+<bicycles>
+<bicycle brand="giant" model="Revolt 2">
+	<color>Metallic Black</color>
+	<length>1035cm</length>
+	<technology>D-Fuse</technology>
+	<saddle>Leather</saddle>
+</bicycle>
+</bicycles>
+
+<trams>
+	<tram city="Krakow" district="Czyżyny">
+		<tramline>52, 10</tramline>
+		<boardingstop>Stella-Sawickiego</boardingstop>
+		<stoptogetoff>Dietla</stoptogetoff>
+		<place>nonsitting</place>
+	</tram>
+</trams>
+</transport>
